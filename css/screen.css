@@ -12,7 +12,22 @@ h1 {
     margin-bottom: 1.3em; 
     color: white;
 }
-p { 
+h2 { 
+    margin-top: 1.5em;
+    margin-bottom: 1.3em; 
+    color: white;
+}
+h3 { 
+    margin-top: 1.3em;
+    margin-bottom: 1.3em; 
+    color: white;
+}
+h4 { 
+    margin-top: 1.3em;
+    margin-bottom: 1.3em; 
+    color: white;
+}
+li,p { 
     width: 35em;
     line-height: 170%;
     font-size: 120%;
