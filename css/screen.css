@@ -4,6 +4,7 @@ body {
     padding-top: 3em;
     padding-bottom: 3em;
     width:50em;
+    background-color: #5F9EA0;
     background-image: url(../img/subtle_textured_light_blue_background.jpg);
     background-repeat: repeat;
 }
